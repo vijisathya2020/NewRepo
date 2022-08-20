@@ -1,0 +1,9 @@
+com\vijaya\SpringBootECommerceApplication.class
+com\vijaya\model\User.class
+com\vijaya\service\UserService.class
+com\vijaya\service\RoleService.class
+com\vijaya\controller\RoleController.class
+com\vijaya\controller\UserController.class
+com\vijaya\repository\UserRepo.class
+com\vijaya\model\Role.class
+com\vijaya\repository\RoleRepo.class
